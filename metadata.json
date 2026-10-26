@@ -1,0 +1,6 @@
+{
+  "name": "Kafetjeria - Kafe Istimewa & Cat Lounge",
+  "description": "Landing page resmi Kafetjeria Semarang: kafe istimewa dengan kehangatan masakan rumahan autentik, ruang relaksasi bersama kucing adopsi, dan pelayanan setara serta inklusif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
